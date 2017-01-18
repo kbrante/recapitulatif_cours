@@ -1,0 +1,26 @@
+depot repository repo (repertoire de code 
+
+un repertoire => depot GIT (ensemblede fichier qui permettent de contenir le journal des modification (log) ainsi que les modifs (commit) )
+
+
+le log n'est pas juste informatif on peut faire des aller retour dans les versions 
+
+local machine qui est devant nous 
+
+distant tout le reste (ce qui n'est pas sous la main )
+
+le depot distant est la vraie versions alors que les local sont des clone 
+
+distant local (pull) telechargement 
+local distant (push) synchro
+
+un .git pour chaque projet
+
+git init 
+git status 
+git add 
+git commit 
+git log
+git pull origin master
+git push origin master
+git clone https://github.com/kbrante/fiche.git

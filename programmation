@@ -1,0 +1,28 @@
+c'est la seule chose qu'un ordi peut comprendre 
+dans tout les cas c'est une suite de caractère dans un fichier texte
+un programme est composé d'instruction composé de mots clés
+quand on enchaine des phrase : sequence ou blocs d'instruction 
+fil d'execution (ordre des instructions) séquentiel
+
+quatre grand concept 
+-les structures de controle du fil d'exec 
+pour gerer le contexte 
+2 structure : 	la structure conditionnelle (si condition alors action sinon action)
+		bifurcation du fil d'exec 
+		
+		1)les structures itérative (qui permet de repeter plusieurs fois la meme chose)
+		2)boucle tant que : tant que condition action 
+		la boucle pour : pour une valeur sur l'intervale (0-10)action 
+
+-3)affectation ex:age = 10 déclaration de variable et 4)affectation 	-entier		intiger
+									-flottant(decimaux)float
+									-caractère	char ou car
+									-chaine de caractère string
+									-binaire(booléens) bool
+								type primitif		anglais
+
+c'est la programmation impérative 
+
+
+
+

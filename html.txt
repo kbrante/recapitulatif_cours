@@ -1,0 +1,45 @@
+langage de structuration pour quelle soit interpreter par le navigateur
+<html>
+	<head>
+	</head>
+	<body>
+	</body>
+</html>
+li element de liste
+ul liste non ordonnée
+label libellé
+
+balise structurelle sementique
+ça vient de html5
+
+header
+aside
+nav
+section
+article
+footer
+
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Titre de la page</title>
+        <link rel="stylesheet" href="./style.css">
+        <script src="./script.js"></script>
+    </head>
+    <body>
+        <header>
+            <nav>
+                
+            </nav>
+        </header>
+        <aside >
+            
+        </aside>
+        <main>
+            <section>
+                
+            </section>
+        </main>
+    </body>
+</html>

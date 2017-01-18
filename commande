@@ -1,0 +1,8 @@
+ls lister 
+cd se deplacer
+mkdir creer un fichier 
+pwd chemin d'où on se trouve 
+cheatsheet pense bete 
+touch creer un fichier vide
+ping host
+scp -r <src><destination> copie de façon securisée
