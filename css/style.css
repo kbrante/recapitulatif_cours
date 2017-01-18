@@ -8,6 +8,6 @@ nav li {
     margin: 2em;
 
 }
-#html li {
+#html .inline li {
     display: inline-block;
 }
